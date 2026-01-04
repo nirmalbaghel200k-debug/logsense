@@ -1,5 +1,0 @@
-INFO Server started
-ERROR NullPointerException at UserService.java:42
-ERROR NullPointerException at UserService.java:45
-Exception Database connection failed
-Timeout while calling payment service
